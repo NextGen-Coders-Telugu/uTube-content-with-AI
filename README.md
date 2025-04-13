@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Testing 🧪
 
-To test the application, compare its functionality with the reference implementation at [YouTube Script Generator](https://youtubescriptgenerator.blogspot.com/):
+To test the application, compare its functionality with the reference implementation at [YouTube Script Generator](https://youtubescriptgenerator.blogspot.com/?m=0):
 
 1. Content Generation
    - Test title generation with various topics
