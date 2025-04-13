@@ -46,6 +46,26 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Testing 🧪
+
+To test the application, compare its functionality with the reference implementation at [YouTube Script Generator](https://youtubescriptgenerator.blogspot.com/):
+
+1. Content Generation
+   - Test title generation with various topics
+   - Compare script structure and formatting
+   - Verify hashtag relevance and quantity
+   - Check thumbnail idea suggestions
+
+2. User Interface
+   - Verify responsive design across devices
+   - Test input field validation
+   - Ensure smooth animations and transitions
+
+3. Performance
+   - Test generation speed
+   - Verify error handling
+   - Check loading states
+
 ## Support 💪
 
 If you find this tool helpful, please consider giving it a star ⭐️
