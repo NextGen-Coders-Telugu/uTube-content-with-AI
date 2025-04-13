@@ -23,7 +23,7 @@ A modern, AI-powered web application that helps content creators generate engagi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neon-youtube-generator.git
+   git clone https://github.com/NextGen-Coders-Telugu/uTube-content-with-AI.git
    ```
 
 2. Open `index.html` in your web browser
